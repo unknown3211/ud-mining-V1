@@ -4,6 +4,7 @@
 Add Images To QB-Inventory/Html/Images
 
 Add Items To QB-Core/Shared/Items.lua
+
 ['pickaxe'] 			     = {['name'] = 'pickaxe', 				    ['label'] = 'Mining Pickaxe', 			['weight'] = 500, 		['type'] = 'item', 		['image'] = 'pickaxe.png', 			['unique'] = true, 			['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'pickaxe for mining'},
 
 ['stone'] 			         = {['name'] = 'stone', 					['label'] = 'Mined Stone', 				['weight'] = 500, 		['type'] = 'item', 		['image'] = 'minedstone.png', 		['unique'] = false, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Mined Stone'},
