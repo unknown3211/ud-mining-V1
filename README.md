@@ -1,6 +1,8 @@
 # ud-mining V1
  Basic Mining Script For QB
 
+Download mz-skills - https://github.com/MrZainRP/mz-skills
+
 Add Images To QB-Inventory/Html/Images
 
 Add Items To QB-Core/Shared/Items.lua
